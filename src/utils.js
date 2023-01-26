@@ -1,13 +1,10 @@
 // Initial Config
 const Web3 = require("web3");
+require('dotenv').config()
 
 // Init Full and Archive providers
-const fullNodeProvider = new Web3(
-  "https://nd-479-987-415.p2pify.com/271156373b36700f7576cf46e68b1262"
-);
-const archiveNodeProvider = new Web3(
-  "https://nd-072-228-848.p2pify.com/3f7a80739e2f6739cae0256a2660725b"
-);
+const fullNodeProvider = new Web3(process.env.CHAINSTACK_FULL_NODE);
+const archiveNodeProvider = new Web3(process.env.CHAINSTACK_ARCHIVE_NODE);
 
 const ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
 
