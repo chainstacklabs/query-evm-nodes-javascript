@@ -76,11 +76,6 @@ Deploy a full and archive node with Chainstack:
 1. [Deploy a node](https://docs.chainstack.com/platform/join-a-public-network).  
 1. [View node access and credentials](https://docs.chainstack.com/platform/view-node-access-and-credentials). 
 
-## Dependencies
-
-* dotenv: ^16.0.3
-* inquirer: ^8.2.4
-* web3.js: ^1.7.4
 
 ## Install
 
