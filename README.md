@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://chainstack.com/build-better-with-ethereum/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Ethereum.svg" /></a>&nbsp;  
-  <a target="_blank" href="https://chainstack.com/build-better-with-bnb-smart-chain/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/BNB.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-polygon/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Polygon.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-avalanche/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Avalanche.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-fantom/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Fantom.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-ethereum/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Ethereum.svg" /></a>&nbsp;  
+  <a target="_blank" href="https://chainstack.com/build-better-with-bnb-smart-chain/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/BNB.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-polygon/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Polygon.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-avalanche/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Avalanche.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-fantom/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Fantom.svg" /></a>&nbsp;
 </p>
 
 <p align="center">
-  • <a target="_blank" href="https://chainstack.com/">Homepage</a> •
-  <a target="_blank" href="https://chainstack.com/protocols/">Supported protocols</a> •
-  <a target="_blank" href="https://chainstack.com/blog/">Chainstack blog</a> •
-  <a target="_blank" href="https://docs.chainstack.com/quickstart/">Chainstack docs</a> •
-  <a target="_blank" href="https://docs.chainstack.com/quickstart/">Blockchain API reference</a> •
-  <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a> •
+  • <a target="_blank" href="https://chainstack.com/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Homepage</a> •
+  <a target="_blank" href="https://chainstack.com/protocols/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Supported protocols</a> •
+  <a target="_blank" href="https://chainstack.com/blog/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Chainstack blog</a> •
+  <a target="_blank" href="https://docs.chainstack.com/docs/platform-introduction?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Chainstack docs</a> •
+  <a target="_blank" href="https://docs.chainstack.com/reference/blockchain-apis?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Blockchain API reference</a> •
+  <a target="_blank" href="https://console.chainstack.com/sign-up?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript">Start for free</a> •
 </p>
 
 # Querying full and archive EVM nodes with JavaScript
@@ -26,7 +26,7 @@
 This project allows the retrieval of historical data from the blockchain programmatically, switching between a full and archive node provider when necessary.
 
 See the full tutorial on the Chainstack blog:
-* [Querying full and archive Ethereum nodes with JavaScript](https://chainstack.com/querying-full-and-archive-evm-nodes-with-javascript/)
+* [Querying full and archive Ethereum nodes with JavaScript](https://chainstack.com/querying-full-and-archive-evm-nodes-with-javascript/?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript)
 
 ## Project details
 
@@ -72,9 +72,9 @@ npm run start
 
 Deploy a full and archive node with Chainstack:
 
-1. [Sign up with Chainstack](https://console.chainstack.com/user/account/create).  
-1. [Deploy a node](https://docs.chainstack.com/platform/join-a-public-network).  
-1. [View node access and credentials](https://docs.chainstack.com/platform/view-node-access-and-credentials). 
+1. [Sign up with Chainstack](https://console.chainstack.com/sign-up?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript).  
+1. [Deploy a node](https://docs.chainstack.com/docs/manage-your-networks?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript#join-a-public-network).  
+1. [View node access and credentials](https://docs.chainstack.com/docs/manage-your-node?utm_source=github&utm_medium=referral&utm_campaign=query-evm-nodes-javascript#view-node-access-and-credentials). 
 
 ## Dependencies
 
